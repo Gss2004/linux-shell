@@ -75,9 +75,7 @@ O shell é utilizado para iniciar e interagir com programas escritos em várias 
 
 ## Diretórios no Sistema Linux
 
-Os diret
-
-órios no sistema Linux têm várias funcionalidades. Aqui estão algumas das principais:
+Os diretórios no sistema Linux têm várias funcionalidades. Aqui estão algumas das principais:
 
 1. **/bin**: Contém os binários essenciais do sistema, usados durante a inicialização do sistema e por todos os usuários.
 
